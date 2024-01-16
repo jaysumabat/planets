@@ -1,1 +1,3 @@
 Mars is cool
+
+Adding a new line because I somehow had commits not on a branch? was very confusing 
